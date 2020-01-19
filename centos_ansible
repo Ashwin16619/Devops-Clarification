@@ -17,6 +17,7 @@ cd .ssh
 ls -ltr
 ip a
 sudo vi /etc/hosts
+sudo vi /etc/ansible/hosts
 ssh-copy-id hari03041
 ssh-copy-id hari03042
 
